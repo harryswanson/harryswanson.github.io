@@ -1,1 +1,8 @@
-/* TODO: design your profile with CSS */
+h1{
+    font-size: 77px;
+    color: peru;
+}
+body{
+    background-color: blanchedalmond;
+    color: blueviolet
+}
